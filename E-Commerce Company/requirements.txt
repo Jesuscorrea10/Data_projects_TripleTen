@@ -1,0 +1,22 @@
+Part 1: Build a Conversion Funnel:
+
+Create a "conversion_funnel" pivot table from "raw_user_activity" data.
+Count unique users at each funnel stage using formulas.
+Calculate total conversion rates and rates to the next step.
+
+Part 2: Prepare Data for Cohort Analysis:
+
+- Isolate purchase events from "raw_user_activity" into a new sheet called "purchase_activity."
+- Calculate first purchase dates with a pivot table in a new sheet called "first_purchase."
+- Set up monthly data for cohorts: event_month, first_purchase_month, and cohort_age.
+
+Part 3: Calculate Retention Rates:
+
+- Create a "cohort_analysis" pivot table grouping data into cohorts.
+- Calculate overall retention rates in a new sheet called "retention_rates."
+
+Part 4: Organize and Document Spreadsheet:
+
+- Fill in results synopsis and analysis descriptions in the "Executive Summary" sheet.
+- Reorder sheets for clarity, with "Table of Contents" and "Executive Summary" first.
+- Format spreadsheets for readability, including numbers, dates, borders, and highlighting.
