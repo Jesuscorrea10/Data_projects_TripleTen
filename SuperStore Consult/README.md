@@ -7,7 +7,7 @@ Tableau Public Share Link: <a href='' target=_blank><u>here</u>.</a>
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1` | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 2 | [Requirements.txt]() | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
 | Section Title | Description |
