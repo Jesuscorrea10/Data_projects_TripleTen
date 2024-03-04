@@ -1,0 +1,22 @@
+Expected Requirements:
+
+Part 1: Exploratory Data Analysis
+1.1 Taxi Ride Statistics for November 15-16, 2017:
+Calculate and display the number of taxi rides for each company.
+Sort results by the number of trips in descending order.
+1.2 Analyze Rides with Keywords "Yellow" or "Blue" (November 1-7, 2017):
+Determine the number of rides for companies with names containing "Yellow" or "Blue."
+Group results by company name.
+1.3 Identify Popular Taxi Companies in November 2017:
+Find rides for "Flash Cab" and "Taxi Affiliation Services."
+Group other companies into "Other" and sort results by the number of rides.
+
+Part 2: Analyzing Loop to O'Hare Rides on Rainy Saturdays
+2.1 Retrieve Neighborhood Identifiers:
+Get identifiers for O'Hare (neighborhood_id: 63) and Loop (neighborhood_id: 50) from the neighborhoods table.
+2.2 Categorize Weather Conditions:
+Categorize hours into "Bad" (rain or storm) and "Good" (other conditions) using the CASE operator.
+Include date, hour (ts), and weather conditions in the final table.
+2.3 Retrieve Data for Loop to O'Hare Rides on Rainy Saturdays:
+Fetch rides from Loop to O'Hare on Saturdays, including weather conditions and ride duration.
+Ignore rides without available weather data.
