@@ -8,9 +8,9 @@ Please find my queries
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 2 | [Requirements.txt](link)| A simple .txt file with the provided project requirements as provided by TripleTen. |
-| 3 | [Table Scheme.png](link) | A .png file showing the relationships between tables used in this project. |
-| 4 | [my_queries.md](link ) | My SQL queries and results for this project. |
+| 2 | [Requirements.txt](https://github.com/Jesuscorrea10/Data_projects_TripleTen/blob/main/Zuber/requirements.txt)| A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 3 | [Table Scheme.png](https://github.com/Jesuscorrea10/Data_projects_TripleTen/blob/main/Zuber/Table%20Scheme.png) | A .png file showing the relationships between tables used in this project. |
+| 4 | [my_queries.md](https://github.com/Jesuscorrea10/Data_projects_TripleTen/blob/main/Zuber/my_queries.md ) | My SQL queries and results for this project. |
 
 | Section Title | Description |
 | ----------- |----------- |
