@@ -7,9 +7,8 @@ Tableau Public Share Link: <a href='' target=_blank><u>here</u>.</a>
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [DataSet - SuperStore.xls]() | The original data file provided by TripleTen that was used in this project's analysis. |
-| 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 3 | [Requirements.txt]() | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 1` | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 2 | [Requirements.txt]() | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
 | Section Title | Description |
 | ----------- |----------- |
