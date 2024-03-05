@@ -2,13 +2,13 @@
 
 This was my fifth project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Tableau Story Telling.
 
-Tableau Public Share Link: <a href='' target=_blank><u>here</u>.</a>
+Tableau Public Share Link: <a href='https://public.tableau.com/views/Sprint5-SuperstoreProject/FinalStory?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a>
 
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 2| [Requirements.txt]() | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 2| [Requirements.txt](https://github.com/Jesuscorrea10/Data_projects_TripleTen/blob/main/Superstore%20Return%20Analysis/requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
 | Section Title | Description |
 | ----------- |----------- |
