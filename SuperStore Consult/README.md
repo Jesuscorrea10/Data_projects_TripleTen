@@ -2,7 +2,7 @@
 
 This was my fourth project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Tableau Visualization.
 
-Tableau Public Share Link: <a href='' target=_blank><u>here</u>.</a>
+Tableau Public Share Link: <a href='https://public.tableau.com/views/Project-Sprint4/PART1Q1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a>
 
 ### Table of Contents
 | File Number | Title | Description |
