@@ -7,7 +7,7 @@ This project was part of my sprint 6  in the TripleTen Business Intelligence Ana
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 2 | [Requirements.txt](https://github.com/Jesuscorrea10/Data_projects_TripleTen/blob/main/shopify/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
-| 3 | [Shopify.pdf](https://github.com/simrandulai/Data_projects_TripleTen/blob/main/Shopify/Shopify.pdf) | A .pdf file with screenshots of the 3 page Power BI Dashboards of my project. |
+| 3 | [Shopify.pdf](https://github.com/Jesuscorrea10/Data_projects_TripleTen/blob/main/shopify/Shopify.pdf) | A .pdf file with screenshots of the 3 page Power BI Dashboards of my project. |
 
 | Section Title | Description |
 | ----------- |----------- |
