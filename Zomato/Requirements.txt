@@ -1,0 +1,35 @@
+# Project Requirements
+
+## Problem Description:
+You have been hired as a junior analyst for Zomato, tasked with analyzing test datasets to understand business performance.
+
+## Analysis Focus:
+Choose one of the following areas for analysis:
+1. Customer Analysis Segmentation
+2. Restaurant Analysis
+3. Sales Analysis
+
+## Deliverables:
+- Develop a research plan focusing on the chosen analysis area.
+- Present a dashboard and main analysis points at the end of the onboarding process.
+
+## Data:
+- Utilize the provided test data archive (Zomato data.zip).
+- Available tables: food, menu, orders, restaurant, users.
+- Additional data sources are not required.
+
+## Tools:
+- Choose BI tools according to analysis requirements (e.g., Tableau, Power BI).
+
+## Dependencies:
+- Tableau or Power BI (depending on chosen BI tool)
+
+## Installation:
+- Download and extract the Zomato data archive.
+
+## Usage:
+- Choose analysis focus and develop research plan.
+- Utilize provided data tables for analysis.
+- Develop dashboards using chosen BI tool.
+- Present findings in a report or presentation format.
+
