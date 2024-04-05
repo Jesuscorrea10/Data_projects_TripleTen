@@ -1,6 +1,6 @@
 # File Title: Shopify.pbix
 
-This was my 6th project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Power BI.
+This project was part of my sprint 6  in the TripleTen Business Intelligence Analytics Program. It was a solo project where I got to demonstrate what I've learned about using Power BI.
 
 ### Table of Contents
 | File Number | Title | Description |
@@ -44,7 +44,6 @@ Lastly I analyzed app developers across review types.
 1. New Apps are more likely to be rated early in their deployment.
 2. Most apps are rated favorably.
 3. Reviews are higher for an app if a developer answered the review.
-4. Reviews that have been voted as helpful have a weighted average of 5.48.
-5. The app developer "Elfsight" has the highest combined ratings at 135.10 stars.
-6. The app developer "Pictorem" has the highest average helpful reviews at 50.
-7. The app developer "FireaApps" has responded to the highest amount of reviews at at 6,008 responses.
+4. Reviews that have been voted as helpful have a weighted average of 4.97.
+5. Most apps have fewer reviews, which hints that most apps get limited attention 
+
