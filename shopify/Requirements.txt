@@ -1,0 +1,37 @@
+Expected requirements for the Shopify App Analysis project:
+
+Data Collection:
+
+Obtain public data from the Shopify App Store, including apps details, categories, and reviews.
+Data Preparation:
+
+Clean and organize the dataset into four tables: apps, apps_categories, categories, and reviews.
+Ensure data consistency and quality.
+Power BI Report Setup:
+
+Develop a Power BI report (.pibx) with multiple sheets, one for each section of the project.
+Part 1: App Landscape:
+
+Create visualizations to display key statistics about the types of apps available on Shopify.
+Develop a KPI Card for the unique number of apps.
+Generate a Line Chart showing the sum of review counts over time.
+Produce a Scatterplot to analyze the relationship between review counts and average ratings.
+Part 2: Reviews:
+
+Calculate a new column named helpful_reviews using DAX expression.
+Develop a Card for the average value of the new helpful_reviews column.
+Create a scatterplot comparing the average rating with developer responses.
+Part 3: App Reviews:
+
+Establish a relationship between the Reviews table and the Apps table in the data model.
+Generate a bar chart showing the sum of ratings by developer.
+Create a new bar chart considering the helpful_review average to address review bias.
+Identify the most responsive developers using a bar chart with a filter for reviews_count greater than 500.
+Submission:
+
+Provide 8 screenshots, one for each sub-question on each page of the Power BI report.
+Ensure clear organization and labeling of the report sections for easy understanding.
+
+
+
+
