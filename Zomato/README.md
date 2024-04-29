@@ -2,7 +2,7 @@
 
 For my final project at TripleTen, I had the freedom to choose the analysis type and BI tool. I opted for Tableau, focusing on restaurant analysis.
 
-Tableau Public Share Link: <a href='https://public.tableau.com/shared/BRH8QM438?:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a>
+Tableau Public Share Link: <a href='https://public.tableau.com/views/FinalProject-JesusCorrea/Presentation?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a>
 
 ### Table of Contents
 | File Number | Title | Description |
